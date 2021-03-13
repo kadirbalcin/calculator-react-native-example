@@ -8,3 +8,4 @@ In the project, I prepared examples about UI and simple react structure.
 
 ## Contributors
 ***Hasret Özkan*** - ***[Website](hasretozkan.me)*** - [***LinkedIn***](linkedin.com/in/hasretozkan)
+***Kadir Balçın*** - ***[Website](kadirbalcin.com)***
